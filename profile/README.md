@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+Welcome to Higher Elevation Software(HES) Github Home
+
+This is the home of all code assets for HES. Will add resources to this readme as we go.  
